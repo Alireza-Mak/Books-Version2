@@ -6,7 +6,7 @@
 I'm a front end developer with 3 year exprience...
 
 
-# About Project: Books creator Using React typescript - Version 2
+# About Project: Books creator Using React typescript - Version 2 (intermediate)
 
 The "Books" application is an upgraded version developed with React and TypeScript, benefiting from React's Context API, Provider pattern, and hooks.
 
@@ -22,12 +22,6 @@ Additionally, users can access the previous version of the application by follow
 
 In summary, the "Books" application leverages React's advanced features, such as the Context API, Provider pattern, and hooks. It allows users to create, edit, and delete books, with data being synchronized between the user interface and the server. The app is designed to be fully responsive, and an api.http file is provided for API requests.
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## Tech Stack
@@ -46,11 +40,6 @@ React, Typescript, Javascript, HTML, CSS...
 ## Support
 
 For support, email Info@alirezamak.com.
-
-
-## Demo
-
-Insert gif or link to demo
 
 
 ## Authors
@@ -73,13 +62,15 @@ Install my-project with npm
 ```bash
   git clone https://github.com/Alireza-Mak/Books.git
 ```
-```bash
-  npm install my-project
-```
-```bash
-  cd my-project
 
+```bash
+  cd books-version2
 ```
+
+```bash
+  npm install
+```
+
 ```bash
   npm run server
 ```
